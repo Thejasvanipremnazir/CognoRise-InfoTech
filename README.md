@@ -73,6 +73,30 @@ Medium Gray (Border Around Login Box): #C0C0C0
 ![Image](https://github.com/user-attachments/assets/ad11f1c1-77eb-461a-a732-c48cac059dcc)
 # Login Page
 ![MacBook Pro 16_ - 8](https://github.com/user-attachments/assets/52365086-4977-4702-8d58-b4578f086098)
+# Task Three
+# Fitpluse Fitness Tracking Application 🏃‍♀️💪
+Fitpluse is your ultimate companion for achieving your fitness goals! Track your exercise, monitor your hydration, and stay consistent with an intuitive and user-friendly interface.
+# Features ✨
+User Dashboard: View all your fitness stats in one place.
+Exercise Tracker: Log your workouts and keep track of your progress.
+Video Section: Access guided workout tutorials and motivational videos.
+Run Tracker: Monitor your runs with distance, time, and pace tracking.
+Calendar Integration: Plan and organize your fitness schedule.
+Hydration Tracker: Stay hydrated with a dedicated water intake tracker.
+Settings: Customize the app based on your preferences.
+Responsive Design: Optimized for mobile and desktop usage.
+# Screenshots 📸
+# home page 
+![home](https://github.com/user-attachments/assets/886f4fb7-4211-45e0-8309-6ace8f35e99a)
+# Dashboard View
+![FITNESS TRACK dashboard output](https://github.com/user-attachments/assets/60b54275-b321-41ad-978e-3fe297e81f9c)
+# poster 
+![Add a subheading](https://github.com/user-attachments/assets/2d9bb07c-0f50-4985-8092-da3bcafb087d)
+
+
+
+
+
 
 
 
